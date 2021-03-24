@@ -1,4 +1,4 @@
-title: Stackbit Fjord Theme
+title: Rehaan M. Bhimani
 baseurl: /
 permalink: '/:title/'
 collections:
@@ -6,59 +6,39 @@ collections:
     permalink: '/posts/:title/'
 palette: yellow
 header:
-  title: Fjord
-  tagline: Minimal and clean blog theme
+  title: Rehaan M. Bhimani
+  tagline: Engineer | Adventurer | Artist
   logo_img: images/logo.svg
-  logo_img_alt: Fjord Logo
-  background_img: images/header-bg.jpg
+  logo_img_alt: Rehaan Logo
+  background_img: images/hiking.jpeg
   has_nav: true
   nav_links:
     - label: Home
       url: /
       style: link
-    - label: About
+    - label: Project Blog
       url: /about
       style: link
-    - label: Style Guide
+    - label: Resume
       url: /style-guide
-      style: link
-    - label: Contact
-      url: /contact
       style: link
   has_social: true
   social_links:
-    - label: Twitter
-      url: 'https://twitter.com/'
-      style: icon
-      icon_class: twitter
-      new_window: true
-    - label: Instagram
-      url: 'https://www.instagram.com/'
-      style: icon
-      icon_class: instagram
-      new_window: true
     - label: GitHub
-      url: 'https://github.com/'
+      url: 'https://github.com/bhimar'
       style: icon
       icon_class: github
       new_window: true
     - label: LinkedIn
-      url: 'https://www.linkedin.com/'
+      url: 'https://www.linkedin.com/in/rehaanbhimani'
       style: icon
       icon_class: linkedin
       new_window: true
-    - label: DEV
-      url: 'https://dev.to/'
+    - label: Mail
+      url: 'mailto:bhimar@uw.edu'
       style: icon
-      icon_class: dev
+      icon_class: email
       new_window: true
-footer:
-  content: >-
-    &copy; Stackbit. All rights reserved. This Jamstack site was created with <a
-    href="https://www.stackbit.com/?utm_source=deployed-footer" target="_blank"
-    rel="noopener">Stackbit</a>. Create yours <a
-    href="https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer"
-    target="_blank" rel="noopener">now</a>
 sass:
   indentWidth: 4
   style: nested
