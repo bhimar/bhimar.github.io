@@ -17,10 +17,10 @@ header:
       url: /
       style: link
     - label: Project Blog
-      url: /about
+      url: /blog
       style: link
     - label: Resume
-      url: /style-guide
+      url: /resume
       style: link
   has_social: true
   social_links:
