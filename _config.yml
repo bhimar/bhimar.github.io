@@ -5,6 +5,7 @@ collections:
   posts:
     permalink: '/posts/:title/'
 palette: yellow
+favicon: images/favicon.jpg
 header:
   title: Rehaan M. Bhimani
   tagline: Engineer | Adventurer | Artist
