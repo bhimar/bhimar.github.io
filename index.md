@@ -4,7 +4,7 @@ has_more_link: true
 more_link_text: Keep reading
 layout: home
 ---
-![portrait](/images/me_small.jpg)
+![portrait]({{site.baseurl}}/images/me_small.jpg)
 ### Education and Experience
 Hello, and thank you for visiting my personal website! I am a student at the University of Washington (UW) double majoring in **Computer Science and Applied & Computational Mathematical Sciences.** After I graduate in Spring 2021, I will be pursuing my Master's in Computer Science through the **UW CSE Combined B.S./M.S. program**.
 
