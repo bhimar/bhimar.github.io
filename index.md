@@ -1,44 +1,27 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work
-img_path: images/hiking.jpeg
 has_more_link: true
 more_link_text: Keep reading
-seo:
-  title: About Me
-  description: A page about me and my work
-  extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-    - name: 'og:title'
-      value: About Me
-      keyName: property
-    - name: 'og:description'
-      value: A page about me and my work
-      keyName: property
-    - name: 'og:image'
-      value: images/about.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: About Me
-    - name: 'twitter:description'
-      value: A page about me and my work
-    - name: 'twitter:image'
-      value: images/about.jpg
-      relativeUrl: true
 layout: home
 ---
+![portrait](/images/me_small.jpg)
+### Education and Experience
+Hello, and thank you for visiting my personal website! I am a student at the University of Washington (UW) double majoring in **Computer Science and Applied & Computational Mathematical Sciences.** After I graduate in Spring 2021, I will be pursuing my Master's in Computer Science through the **UW CSE Combined B.S./M.S. program**.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+I have a breadth of software related experiences including: **software engineering with Cisco, teaching computer science courses (machine learning, C/C++) with the Allen School, and research with the UW Department of Orthopaedics.** My hard work has earned me recognition through the CSE Award for Excellence, two Mary Gates Research Scholarships, and the Undergraduate Research Conference Travel Award.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+Apart from my technical work, I have had opportunities to work in leadership roles with the UW Undergraduate Research Program and the UW iGEM Undergraduate Research Team.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+### Technical Interests
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+The technologies that really excite me are Deep Learning, Computer Vision, Machine Learning Infrastructure, and Cloud Computing. I am especially interested in applications of these technologies in Precision Agriculture, Electric Vehicles, and Robotics.
 
-*Thank You for reading!*
+A few courses that I have really enjoyed and excelled at include: Machine Learning, Deep Learning, Computer Vision, Systems Programming (C/C++), and Environmental Ethics.
+
+
+### Fun Facts
+When I am not studying or working, I enjoy calisthenics workouts, social dancing (pre-covid), and adventuring outdoors.
+
+
+
+# Project Highlights
