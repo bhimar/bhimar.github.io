@@ -26,7 +26,7 @@ Data Providers
 REST API calls, and build tools for each codebase using TestNG, Mockito, and Spring Web MVC
 
 **PAUL G. ALLEN SCHOOL FOR COMPUTER SCIENCE & ENGINEERING**  
-*Teaching Assistant/ June 2019 – March 2021*
+*Teaching Assistant (Machine Learning, C/C++ Programming)/ June 2019 – March 2021*
 - Prepare and lead weekly class sections to teach students computer science topics
 including machine learning, C/C++ programming, memory management, and computer organization
 - Provide individual instruction to students during office hours with course material, code debugging,
