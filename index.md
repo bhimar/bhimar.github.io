@@ -14,7 +14,7 @@ Apart from my technical work, I have had opportunities to work in leadership rol
 
 ### Technical Interests
 
-The technologies that really excite me are Deep Learning, Computer Vision, Machine Learning Infrastructure, and Cloud Computing. I am especially interested in applications of these technologies in Precision Agriculture, Electric Vehicles, and Robotics.
+The technologies that really excite me are **Deep Learning, Computer Vision, Machine Learning Infrastructure, and Cloud Computing.** I am especially interested in applications of these technologies in **Precision Agriculture, Electric Vehicles, and Robotics.**
 
 A few courses that I have really enjoyed and excelled at include: Machine Learning, Deep Learning, Computer Vision, Systems Programming (C/C++), and Environmental Ethics.
 

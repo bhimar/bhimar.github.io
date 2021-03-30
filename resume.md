@@ -1,82 +1,46 @@
 ---
-title: Style Guide
-subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+title: Resume
 layout: page
 ---
+### Education
+**UNIVERSITY OF WASHINGTON – SEATTLE**  
+*B.S. Computer Science and Applied & Computational Mathematical Sciences* – GPA: 3.82/4.0  
+September 2017 – June 2021  
 
-**This is a paragraph**. Paragraphs are usually represented in visual media as blocks of text separated from adjacent blocks by blank lines and/or first-line [indentation](https://en.wikipedia.org/wiki/Indentation_(typesetting)), but <abbr title="HyperText Markup Language">HTML</abbr> paragraphs can be any structural grouping of related content, such as images or form fields.
+*M.S. Computer Science*  
+September 2021 – December 2022
 
-The HTML &lt;h1&gt;–&lt;h6&gt; elements represent six levels of section headings. &lt;h1&gt; is the highest section level and &lt;h6&gt; is the lowest.
+### Skills
+**Software Skills**  
+C/C++ • Java • Python (NumPy, PyTorch) •  Linux • Git  
+**Areas of Knowledge**  
+Machine Learning • Deep Learning • Computer Vision and Image Processing
 
-# This is an H1
+### Work Experience
+**CISCO (WEBEX PLATFORM SERVICES TEAM)**  
+*Software Engineer Intern/ June 2020 – Sept 2020*  
+- Identify performance bottlenecks for backend authorization testing framework using CPU Profiling
+- Implement testing framework improvements using Java Spring dependency injection and TestNG
+Data Providers
+- Migrate testing framework to separate microservice codebases by adapting code to specific style,
+REST API calls, and build tools for each codebase using TestNG, Mockito, and Spring Web MVC
 
-## This is an H2
+**PAUL G. ALLEN SCHOOL FOR COMPUTER SCIENCE & ENGINEERING**  
+*Teaching Assistant/ June 2019 – March 2021*
+- Prepare and lead weekly class sections to teach students computer science topics
+including machine learning, C/C++ programming, memory management, and computer organization
+- Provide individual instruction to students during office hours with course material, code debugging,
+and exam preparation
 
-### This is an H3
+**Washington NASA Space Grant Consortium**  
+*Summer Research Intern/ June 2018 – September 2018*
+- Design and implement algorithms to measure bone features rapidly and automatically in microCT
+images using MATLAB programming and image processing techniques
+- Integrate bone measurement software modules into existing software codebase
+- Communicate research through technical writing and professional conference presentation
 
-#### This is an H4
-
-##### This is an H5
-
-###### This is an H6
-
-Avoid using heading tags to resize text. Instead, use the CSS font-size property. Headings use size to indicate their relative importance, but CSS is preferred for general-purpose resizing.
-
-## Quoting
-
-The HTML blockquote element defines a long block quotation in the HTML document from another source.
-
->“Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep.” <cite>― Scott Adams</cite>
-
-A URL for the source of the quotation may be given using the cite attribute, while a text representation of the source can be given using the &lt;cite&gt; element.
-
-<hr />
-
-## Unordered Lists
-
-Groups a collection of items that do not have a numerical ordering, and their order in the list is meaningless.
-
-+ Donec non tortor in arcu mollis feugiat
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-+ Donec id eros eget quam aliquam gravida
-+ Vivamus convallis urna id felis
-+ Nulla porta tempus sapien
-
-## Ordered Lists
-
-Represents a list of items. The only difference from the unordered list is taht the order of the items is meaningful.
-
-1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
-
-## Code Blocks
-
-<pre>/* Some example CSS code */
-body {
-  color:red;
-}
-</pre>
-
-## Tables
-
-<table>
-  <caption>Simple table with caption and header</caption>
-  <tr>
-    <th>First name</th>
-    <th>Last name</th>
-  </tr>
-  <tr>
-    <td>John</td>
-    <td>Doe</td>
-  </tr>
-  <tr>
-    <td>Jane</td>
-    <td>Doe</td>
-  </tr>
-</table>
+### Awards 
+- CSE Award for Excellence Scholarship − Paul G. Allen School for Computer Science & Engineering, Fall 2019
+- Mary Gates Research Scholarship − Mary Gates Endowment for Students, Fall 2018
+- Research Conference Travel Award − UW Undergraduate Research Program, Fall 2018
+- Mary Gates Research Scholarship − Mary Gates Endowment for Students, Winter 2018

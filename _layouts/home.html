@@ -26,7 +26,7 @@ layout: body
         {% assign posts = '/highlights' | get_pages %}
         {% assign posts_count = posts | size %}
         {% if posts_count > 0 %}
-          {% assign posts_sorted = posts | sort: 'date' | reverse %}
+          {% assign posts_sorted = posts | sort: 'weight' %}
           {% for post in posts_sorted %}
           <article class="post">
             <header class="post-header">
