@@ -1,5 +1,5 @@
 title: Rehaan M. Bhimani
-baseurl: /bhimar/_site
+baseurl: /bhimar
 permalink: '/:title/'
 collections:
   posts:
