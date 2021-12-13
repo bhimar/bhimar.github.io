@@ -5,6 +5,8 @@ excerpt: >-
 date: '2021-12-12'
 layout: post
 ---
+Authors: Abhishek Babu, Rehaan Bhimani, Alan Liu, Michael Wilson
+
 Below is an abridged version of our work intended for a more general data science audience. You can read our full work [here]({{site.baseurl}}/images/MentalHealth/final_report.pdf). Source code for our project can be found [here](https://github.com/abhishekbabu/cse481ds-mental-health).
 
 ![image slices]({{site.baseurl}}/images/MentalHealth/mental_health_cover.jpg)
@@ -46,7 +48,6 @@ For each of the variables we were interested in, we split the data into two grou
 |High school grad. | Higher | 0.106 | 0.0605 | 2353 | 1 | 1056 | 1031 |
 |Some college | Higher | 0.214 | 0.132 | 2213 | 0 | 742 | 1486 |
 |Household income | Higher | 0.297 | 0.123 | 2026 | 0 | 732 | 1683 |
-|midrule
 |Unemployment | Lower | 0.0990 | 0.0459 | 2353 | 0 | 967 | 1121 |
 |Pop. to MH providers | Lower | 0.3590 | 0.180 | 3659 | 124 | 527 | 131 |
 |Temperature | Lower | 0.1048 | 0.0508 | 2281 | 0 | 1092 | 1068 |
@@ -74,3 +75,4 @@ We hope that these findings can guide further research, policy, and programs for
 [3] U.S. Department  of  Agriculture  (USDA)  Economic  Research  Service  (ERS).Rural-Urban Continuum Codes, Dec 2020.  
 [4] National Oceanic and Atmospheric Administration (NOAA) National Centers for Environment Information. Climate at a Glance: County Time Series, Dec 2021.  
 [5] Centers for Disease Control and Prevention (CDC). CDC WONDER, Dec 2021.  
+[6] E. A. Stuart, B. K. Lee, and F. P. Leacy. Prognostic score–based balance measures for propensityscore methods in comparative effectiveness research.Journal of Clinical Epidemiology, 66(8):S84–S90, 2013.
