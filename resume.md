@@ -4,19 +4,25 @@ layout: page
 ---
 ### Education
 **UNIVERSITY OF WASHINGTON – SEATTLE**  
-*B.S. Computer Science and Applied & Computational Mathematical Sciences* – GPA: 3.82/4.0  
-September 2017 – June 2021  
-
 *M.S. Computer Science*  
 September 2021 – December 2022
 
+*B.S. Computer Science and Applied & Computational Mathematical Sciences* – GPA: 3.82/4.0  
+September 2017 – June 2021  
+
 ### Skills
-**Software Skills**  
-C/C++ • Java • Python (NumPy, PyTorch) •  Linux • Git  
+**Software/Tools**  
+Python (NumPy, PyTorch) • C/C++ • Java (Spring, TestNG, Mockito) • SQL • Linux • Git  
 **Areas of Knowledge**  
-Machine Learning • Deep Learning • Computer Vision and Image Processing
+Machine Learning • Computer Vision • Deep Learning • Operating Systems
 
 ### Work Experience
+**MICROSOFT (AZURE WAN EMULATION TEAM)**  
+*Software Engineer Intern (Azure WAN Emulation Team)/ June 2021 – Sept 2021*
+- Design and implement a service for automatically validating virtual router images in an emulated 
+network environment using Python programming and network emulation API
+- Generate monitoring dashboard using Kusto Query Language and internal visualization software
+
 **CISCO (WEBEX PLATFORM SERVICES TEAM)**  
 *Software Engineer Intern/ June 2020 – Sept 2020*  
 - Identify performance bottlenecks for backend authorization testing framework using CPU Profiling
