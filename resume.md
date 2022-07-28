@@ -4,24 +4,28 @@ layout: page
 ---
 ### Education
 **UNIVERSITY OF WASHINGTON – SEATTLE**  
-*M.S. Computer Science*  
-September 2021 – December 2022
-
+*M.S. Computer Science* - GPA: 3.87/4.0
+September 2021 – December 2022  
 *B.S. Computer Science and Applied & Computational Mathematical Sciences* – GPA: 3.82/4.0  
 September 2017 – June 2021  
 
 ### Skills
-**Software/Tools**  
-Python (NumPy, PyTorch) • C/C++ • Java (Spring, TestNG, Mockito) • SQL • Linux • Git  
+**Programming**  
+Python (NumPy, PyTorch, ROSpy) • Java (Spring, TestNG, Mockito) • C/C++  
+**Tools**  
+SQL • Linux • Git  
 **Areas of Knowledge**  
-Machine Learning • Computer Vision • Deep Learning • Operating Systems
+Machine Learning • Networking • Data Management
 
 ### Work Experience
+**MICROSOFT (Azure AutoML)**
+*Software Engineer Intern (Azure AutoML)/ June 2022 – Present*
+- Currently implementing spatio-temporal action detection training, testing, and evaluation for Azure AutoML video understanding capabilities
+
 **MICROSOFT (AZURE WAN EMULATION TEAM)**  
 *Software Engineer Intern (Azure WAN Emulation Team)/ June 2021 – Sept 2021*
-- Design and implement a service for automatically validating virtual router images in an emulated 
-network environment using Python programming and network emulation API
-- Generate monitoring dashboard using Kusto Query Language and internal visualization software
+- Design and implement a service for automated and continuous integration testing in an emulated network using Python programming, network emulation API, and Kusto Query Language
+- My service significantly decreases overhead for integration testing, and it increases the reliability of the network emulation, thus increasing reliability of the Azure production network.
 
 **CISCO (WEBEX PLATFORM SERVICES TEAM)**  
 *Software Engineer Intern/ June 2020 – Sept 2020*  
@@ -32,11 +36,8 @@ Data Providers
 REST API calls, and build tools for each codebase using TestNG, Mockito, and Spring Web MVC
 
 **PAUL G. ALLEN SCHOOL FOR COMPUTER SCIENCE & ENGINEERING**  
-*Teaching Assistant (Machine Learning, C/C++ Programming)/ June 2019 – Present*
-- Prepare and deliver weekly class sections to teach students computer science topics
-including machine learning, C/C++ programming, memory management, and computer organization
-- Provide individual instruction to students during office hours with course material, code debugging,
-and exam preparation
+*Teaching Assistant (Machine Learning, Computer Vision, C/C++ Programming)/ June 2019 – Present*
+- Prepare and deliver weekly class sections and office hours to teach students topics including machine learning, computer vision, Python and C programming
 
 **Washington NASA Space Grant Consortium**  
 *Summer Research Intern/ June 2018 – September 2018*

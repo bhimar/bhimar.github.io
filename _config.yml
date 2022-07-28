@@ -8,10 +8,10 @@ palette: yellow
 favicon: images/favicon.jpg
 header:
   title: Rehaan M. Bhimani
-  tagline: Engineer | Scholar | Adventurer
+  tagline: SWE Seeking Climate Tech Jobs
   logo_img: images/logo.svg
   logo_img_alt: Rehaan Logo
-  background_img: images/hiking.jpeg
+  background_img: images/goblin_valley.jpg
   has_nav: true
   nav_links:
     - label: Home
