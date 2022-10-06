@@ -13,7 +13,7 @@ September 2017 – June 2021
 **Programming**  
 Python (NumPy, PyTorch, ROSpy) • Java (Spring, TestNG, Mockito) • C/C++  
 **Tools**  
-SQL • Linux/UNIX • Git • ROS • OpenCV
+SQL • Linux/UNIX • Git • ROS • OpenCV  
 **Domain Knowledge**  
 Computer Vision and Graphics • Machine Learning • Robotics • Data Management
 
