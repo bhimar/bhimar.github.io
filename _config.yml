@@ -1,5 +1,6 @@
 title: Rehaan M. Bhimani
-baseurl: /portfolio-site/
+url: bhimar.github.io
+baseurl: /portfolio-site
 permalink: '/:title/'
 collections:
   posts:
