@@ -1,9 +1,11 @@
 ---
-title: Image Retrieval 
+title: Harnessing the Power of Open-Source Models for Image Retrieval in Azure Machine Learning
 excerpt: >-
-  In this project, I explore a few common semantic segmentation techniques that have been used on weed/crop datasets for precision agriculture tasks. I use image patching as a data augmentation technique, train with transfer learning for three different semantic segmentation neural network architectures, and compare these models qualitatively and with the Intersection Over Union metric. I discuss the challenges and takeaways of the project.
+  This is a study that I contributed to while working with the Microsoft AzureML AutoML team. My main contributions to this work are developing the end-to-end text-to-image retrieval example, performing pretrained and finetuning experiments for the models using in the text-to-image section, and adding support for the CLIP embeddings models to Azure Machine Learning catalog.
 date: '2024-01-10'
 weight: 1
 external_url: 'https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/harnessing-the-power-of-open-source-models-for-image-retrieval/ba-p/4014175'
+thumb_img_path: images/ImageRetrieval/image_retrieval.png
+thumb_img_alt: image retrieval thumbnail
 layout: post
 ---
