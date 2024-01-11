@@ -7,7 +7,7 @@ layout: post
 ---
 Authors: Abhishek Babu, Rehaan Bhimani, Alan Liu, Michael Wilson
 
-Below is an abridged version of our work intended for a more general data science audience. You can read our full work [here]({{site.baseurl}}/images/MentalHealth/final_report.pdf). Source code for our project can be found [here](https://github.com/abhishekbabu/cse481ds-mental-health).
+Below is an abridged version of our work intended for a more general data science audience. You can read our full work [here]({{site.baseurl}}/images/MentalHealth/final_report.pdf). Source code for our project can be found [here](https://github.com/bhimar/cse481ds-mental-health).
 
 ![image slices]({{site.baseurl}}/images/MentalHealth/mental_health_cover.jpg)
 
