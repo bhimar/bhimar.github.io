@@ -10,7 +10,7 @@ Hello, and thank you for visiting my website! I previously graduated with my **M
 
 ### Technical Interests
 
-I am a curious software engineer particularly interested in applications of **Machine Learning and Software Engineering** for environmental missions and climate research. I enjoy blending my software engineering and data science skills to solve complex problems. I'm always on the look out for opportunities to expand my expertise, so please reach out!
+I am a curious software engineer particularly interested in **Machine Learning and Software Engineering** for **environmental missions and climate research**. I enjoy blending my software engineering and data science skills to solve complex problems. I'm always on the look out for opportunities to expand my expertise and contribute to meaningful work, so please reach out!
 
 ### Fun Facts
 When I am not studying or working, I enjoy being active and outdoors. I especially enjoy surfing, rock climbing, backpacking, and fly fishing!
