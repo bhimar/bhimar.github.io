@@ -13,7 +13,7 @@ September 2017 – June 2021
 **Programming**  
 Python (PyTorch, Huggingface Transformers, Pytest) • C/C++ • Java  
 **Tools**  
-Linux/UNIX • Git •SQL  
+Linux/UNIX • Git • SQL  
 **Domain Knowledge**  
 Deep Learning • Computer Vision • Machine Learning • Software Engineering  
 **Certifications**  
@@ -34,14 +34,6 @@ Deep Learning • Computer Vision • Machine Learning • Software Engineering
 - Design and implement a service for automated and continuous integration testing in an emulated network using Python programming, network emulation API, and Kusto Query Language
 - My service significantly decreases overhead for integration testing, and it increases the reliability of the network emulation, thus increasing reliability of the Azure production network.
 
-**CISCO (WEBEX PLATFORM SERVICES)**  
-*Software Engineer Intern/ June 2020 – Sept 2020*  
-- Identify performance bottlenecks for backend authorization testing framework using CPU Profiling
-- Implement testing framework improvements using Java Spring dependency injection and TestNG
-Data Providers
-- Migrate testing framework to separate microservice codebases by adapting code to specific style,
-REST API calls, and build tools for each codebase using TestNG, Mockito, and Spring Web MVC
-
 **PAUL G. ALLEN SCHOOL FOR COMPUTER SCIENCE & ENGINEERING**  
-*Teaching Assistant/ June 2019 – Present*
+*Teaching Assistant/ June 2019 – December 2022*
 - Prepare and deliver weekly class sections and office hours to teach students topics including machine learning, computer vision, Python and C/C++ programming
