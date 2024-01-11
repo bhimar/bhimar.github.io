@@ -42,7 +42,11 @@ layout: body
             </header><!-- .post-header -->
             {% assign thumb_img_path_is_not_empty = post.thumb_img_path | is_not_empty %}
             {% if thumb_img_path_is_not_empty %}
+            {% if post.external_url %}
+            <a class="post-thumbnail" href="{{ post.external_url }}">
+            {% else %}
             <a class="post-thumbnail" href="{{ post.url | relative_url }}">
+            {% endif %}
               <img class="thumbnail" src="{{ post.thumb_img_path | relative_url }}" alt="{{ post.thumb_img_alt }}" />
             </a>
             {% endif %}
@@ -51,7 +55,11 @@ layout: body
             </div><!-- .post-content -->
             {% if page.has_more_link == true and page.more_link_text %}
             <p class="read-more">
+              {% if post.external_url %}
+              <a class="read-more-link" href="{{ post.external_url }}">{{ page.more_link_text }} <span class="icon-arrow-right" aria-hidden="true"></span></a>
+              {% else %}
               <a class="read-more-link" href="{{ post.url | relative_url }}">{{ page.more_link_text }} <span class="icon-arrow-right" aria-hidden="true"></span></a>
+              {% endif %}
             </p>
             {% endif %}
           </article><!-- .post -->
