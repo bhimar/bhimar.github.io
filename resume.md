@@ -18,7 +18,7 @@ SQL • Linux/UNIX • Git
 Deep Learning • Computer Vision • Machine Learning • Sofwtare Engineering
 
 ### Work 
-**MICROSOFT (AZURE MACHINE LEARNING)**
+**MICROSOFT (AZURE MACHINE LEARNING)**  
 *Software Engineer/ March 2023 - Present* 
 
 **MICROSOFT (AZURE AUTOML)**  

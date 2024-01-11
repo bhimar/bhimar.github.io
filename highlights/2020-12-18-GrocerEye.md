@@ -6,6 +6,7 @@ date: '2020-12-18'
 weight: 3
 thumb_img_path: images/GrocerEye/grocereye_thumbnail.JPG
 thumb_img_alt: GrocerEye Predictions
+url: google.com
 layout: post
 ---
 
