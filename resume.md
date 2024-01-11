@@ -11,11 +11,11 @@ September 2017 – June 2021
 
 ### Skills
 **Programming**  
-Python (NumPy, PyTorch) • Java (Spring, TestNG, Mockito) • C/C++  
+Python (PyTorch, Huggingface Transformers, Pytest) • C/C++ • Java  
 **Tools**  
-SQL • Linux/UNIX • Git 
+Linux/UNIX • Git • SQL  
 **Domain Knowledge**  
-Deep Learning • Computer Vision • Machine Learning • Sofwtare Engineering
+Deep Learning • Computer Vision • Machine Learning • Software Engineering  
 
 ### Work 
 **MICROSOFT (AZURE MACHINE LEARNING)**  
