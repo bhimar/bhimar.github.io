@@ -30,7 +30,11 @@ layout: body
           {% for post in posts_sorted %}
           <article class="post">
             <header class="post-header">
-              <h2 class="post-title"><a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a></h2>
+              {% if post.external_url %}
+              <h2 class="post-title"><a href="{{ post.external_url }}" rel="bookmark">{{ post.title }}</a></h2>
+              {% else %}
+              <h2 class="post-title"><a href="{{ post.url | relative_url }}" rel="bookmark">{{ post.title }}</a></h2>
+              {% endif %}
               <div class="post-meta">
                 Published on <time class="published"
                   datetime="{{ post.date | date: '%Y-%m-%d %H:%M' }}">{{ post.date | date: '%B %d, %Y' }}</time>
