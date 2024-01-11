@@ -13,9 +13,11 @@ September 2017 – June 2021
 **Programming**  
 Python (PyTorch, Huggingface Transformers, Pytest) • C/C++ • Java  
 **Tools**  
-Linux/UNIX • Git • SQL  
+Linux/UNIX • Git •SQL  
 **Domain Knowledge**  
-Deep Learning • Computer Vision • Machine Learning • Software Engineering  
+Deep Learning • Computer Vision • Machine Learning • Software Engineering
+**Certifications**
+[Github Actions (CI/CD)](https://www.credly.com/badges/78998809-fea4-487c-8779-6f7d88dd422d/print)
 
 ### Work 
 **MICROSOFT (AZURE MACHINE LEARNING)**  
