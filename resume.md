@@ -37,3 +37,9 @@ Deep Learning • Computer Vision • Machine Learning • Software Engineering
 **PAUL G. ALLEN SCHOOL FOR COMPUTER SCIENCE & ENGINEERING**  
 *Teaching Assistant/ June 2019 – December 2022*
 - Prepare and deliver weekly class sections and office hours to teach students topics including machine learning, computer vision, Python and C/C++ programming
+
+### Awards
+CSE Award for Excellence Scholarship - Nov 2019  
+Undergraduate Research Conference Travel Award - Feb 2019  
+Mary Gates Research Scholarship Award - Dec 2018  
+Mary Gates Research Scholarship Award - Mar 2018  
