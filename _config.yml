@@ -9,7 +9,7 @@ palette: yellow
 favicon: images/favicon.jpg
 header:
   title: Rehaan M. Bhimani
-  tagline: SWE Seeking Climate Tech Jobs
+  tagline: SWE @ Microsoft | MS CSE @ UW
   logo_img: images/logo.svg
   logo_img_alt: Rehaan Logo
   background_img: images/halfdome_crop.jpg
@@ -37,7 +37,7 @@ header:
       icon_class: linkedin
       new_window: true
     - label: Mail
-      url: 'mailto:bhimar@uw.edu'
+      url: 'mailto:rehaan.bhimani@gmail.com'
       style: icon
       icon_class: email
       new_window: true

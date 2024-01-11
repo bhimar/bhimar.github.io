@@ -6,17 +6,13 @@ layout: home
 ---
 ![portrait]({{site.baseurl}}/images/me_small.jpg)
 ### Education and Experience
-Hello, and thank you for visiting my personal website! I will be graduating with my **M.S. Computer Science** degree in December 2022, so I am **seeking full-time software engineering opportunities**, especially in **Climate Tech and Research**.
-
-I have worked on a breadth of software engineering teams including: **Microsoft Azure AutoML**, **Microsoft Azure WAN Emulation** and **Cisco Webex Platform Services**. I also assist with teaching computer science courses including (**computer vision, machine learning, and C/C++**).
+Hello, and thank you for visiting my website! I previously graduated with my **M.S. Computer Science** degree in December 2022, and I am currently working as a Software Engineer with the **Microsoft Azure Machine Learning Training team**.
 
 ### Technical Interests
 
-I am a young, passionate, and curious software engineer interested in applications of **Software Engineering, Machine Learning, and Robotics** for environmental missions including **Climate Research, Reforestation and Wildfire Prevention, and Marine Conservation**.
-
-A few **course topics** that I have really enjoyed and excelled at include: Deep Learning, Computer Vision, Computer Graphics, Robotics, Data Management, Systems Programming (C/C++), and Environmental Ethics.
+I am a curious software engineer particularly interested in applications of **Machine Learning and Software Engineering** for environmental missions and climate research. I enjoy blending my software engineering and data science skills to solve complex problems. I'm always on the look out for opportunities to expand my expertise, so please reach out!
 
 ### Fun Facts
-When I am not studying or working, I enjoy being active and outdoors. I especially enjoy surfing, rock climbing, and hiking!
+When I am not studying or working, I enjoy being active and outdoors. I especially enjoy surfing, rock climbing, backpacking, and fly fishing!
 
 # Project Highlights

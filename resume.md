@@ -11,13 +11,16 @@ September 2017 – June 2021
 
 ### Skills
 **Programming**  
-Python (NumPy, PyTorch, ROSpy) • Java (Spring, TestNG, Mockito) • C/C++  
+Python (NumPy, PyTorch) • Java (Spring, TestNG, Mockito) • C/C++  
 **Tools**  
-SQL • Linux/UNIX • Git • ROS • OpenCV  
+SQL • Linux/UNIX • Git 
 **Domain Knowledge**  
-Computer Vision and Graphics • Machine Learning • Robotics • Data Management
+Deep Learning • Computer Vision • Machine Learning • Sofwtare Engineering
 
-### Work Experience
+### Work 
+**MICROSOFT (AZURE MACHINE LEARNING)**
+*Software Engineer/ March 2023 - Present* 
+
 **MICROSOFT (AZURE AUTOML)**  
 *Software Engineer Intern/ June 2022 – Sept 2022*
 - Implement model loading, data loading, data augmentation, training, and evaluation for multi-label spatio-temporal action detection video understanding task
