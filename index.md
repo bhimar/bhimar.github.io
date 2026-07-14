@@ -14,7 +14,6 @@ I am currently based in **Boulder, CO** and am open to work opportunities in the
 
 I am a curious machine learning/data/software engineer particularly interested in **machine learning and data science, DevOps/MLOps and data processing automation, systems software engineering, and high performance computing**. I pride myself on writing high quality code and debugging complex problems. I'm always on the look out for opportunities to expand my expertise and contribute to meaningful and ethical engineering and science missions, so please reach out!
 
-### Fun Facts
-When I am not studying or working, I enjoy being active and outdoors. Currently, I especially enjoy rock climbing and cycling!
-
 # Project Highlights
+
+Below are a few recent projects that I've worked on and have been publicized. Please visit my blog section to view more projects!
