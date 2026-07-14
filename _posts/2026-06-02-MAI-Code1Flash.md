@@ -5,7 +5,7 @@ excerpt: >-
 date: '2026-06-02'
 weight: 1
 external_url: 'https://microsoft.ai/news/introducingmai-code-1-flash/'
-thumb_img_path: images/mai-coder/table.png
+thumb_img_path: images/mai-coder/table.PNG
 thumb_img_alt: mai code 1 flash table
 layout: post
 ---
