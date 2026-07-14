@@ -20,8 +20,10 @@ Deep Learning • Computer Vision • Machine Learning • Software Engineering
 [Github Actions (CI/CD)](https://www.credly.com/badges/78998809-fea4-487c-8779-6f7d88dd422d/print)  
 
 ### Work 
-**MICROSOFT (AZURE MACHINE LEARNING)**  
-*Software Engineer/ March 2023 - Present* 
+**MICROSOFT**  
+*Member of Technical Staff - Microsoft AI/ March 2026 - Present* 
+*Software Engineer 2/ Sept 2024 - March 2026* 
+*Software Engineer/ March 2023 - August 2024* 
 
 **MICROSOFT (AZURE AUTOML)**  
 *Software Engineer Intern/ June 2022 – Sept 2022*
