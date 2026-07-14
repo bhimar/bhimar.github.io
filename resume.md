@@ -21,9 +21,11 @@ Deep Learning • Computer Vision • Machine Learning • Software Engineering
 
 ### Work 
 **MICROSOFT**  
-*Member of Technical Staff - Microsoft AI/ March 2026 - Present* 
-*Software Engineer 2/ Sept 2024 - March 2026* 
-*Software Engineer/ March 2023 - August 2024* 
+*Member of Technical Staff - Microsoft AI/ March 2026 - Present*
+
+*Software Engineer 2/ Sept 2024 - March 2026*   
+
+*Software Engineer/ March 2023 - August 2024*   
 
 **MICROSOFT (AZURE AUTOML)**  
 *Software Engineer Intern/ June 2022 – Sept 2022*
