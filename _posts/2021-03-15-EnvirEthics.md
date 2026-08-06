@@ -22,7 +22,7 @@ consumer action on reducing emissions and waste. Though it is unrealistic to req
 individual to lower their carbon emissions substantially, collective action with less substantial
 lifestyle changes can contribute to slowing and stopping climate change.
 
-## Climate Change as and Ethical Issue
+## Climate Change as an Ethical Issue
 Though many people consider climate change to be an ethical catastrophe because of the
 destruction of animal habitats and wilderness, others may not consider this as ethically
 important. For that reason, we must consider the affect that climate change has on humans,
